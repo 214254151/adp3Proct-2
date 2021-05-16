@@ -25,9 +25,6 @@ public class ListCollection {
         listNames.remove("Bhoza");
         listNames.remove(0);
         System.out.println(listNames);
-
-
-        //finding names from the arrayList
     }
     public void findNames() {
 
